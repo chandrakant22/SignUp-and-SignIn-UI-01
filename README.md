@@ -1,3 +1,5 @@
 # SignUp-and-SignIn-UI-01
-SignUp and SignIn activity Design<br/>
+<b>SignUp and SignIn activity Design</b>
+<br/><br/>
 ![Screenshot](ss1.jpeg)
+![Screenshot](ss2.jpeg)
